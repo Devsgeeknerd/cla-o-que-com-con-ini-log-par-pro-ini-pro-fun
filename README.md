@@ -7,6 +7,10 @@ Define se os itens devem quebrar ou não a linha. Por padrão eles não quebram 
 
 Essa e geralmente uma propriedade que e quase sempre definida como `flex-wrap: wrap;`. Pois assim quando um dos flex itens atinge o limite do conteúdo, o último item passa para a coluna debaixo e assim por diante.
 
+```css
+flex-wrap: nowrap;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
