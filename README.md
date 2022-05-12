@@ -38,7 +38,7 @@ flex-wrap: wrap-reverse;
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [INFORMAÇÕES](#informações) -->
+* [INFORMAÇÕES](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
