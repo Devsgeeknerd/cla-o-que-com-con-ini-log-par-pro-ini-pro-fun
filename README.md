@@ -19,6 +19,10 @@ flex-wrap: wrap;
 
 > Quebra a linha assim que um dos flex itens não puder mais ser compactado.
 
+```css
+flex-wrap: wrap-reverse;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
