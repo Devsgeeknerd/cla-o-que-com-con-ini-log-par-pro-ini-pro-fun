@@ -23,6 +23,8 @@ flex-wrap: wrap;
 flex-wrap: wrap-reverse;
 ```
 
+> Quebra a linha assim que um dos flex itens não puder mais ser compactado. A quebra e na direção contrária, ou seja para a linha acima.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
