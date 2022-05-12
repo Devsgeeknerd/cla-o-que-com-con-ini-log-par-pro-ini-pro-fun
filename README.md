@@ -11,6 +11,8 @@ Essa e geralmente uma propriedade que e quase sempre definida como `flex-wrap: w
 flex-wrap: nowrap;
 ```
 
+> Valor padrão, não permite a quebra de linha.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
