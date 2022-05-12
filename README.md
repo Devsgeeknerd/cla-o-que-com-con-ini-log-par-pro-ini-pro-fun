@@ -3,6 +3,8 @@
 
 ***Conteúdo da Aula:***
 
+Define se os itens devem quebrar ou não a linha. Por padrão eles não quebram linha, isso faz com que os flex itens sejam compactados alem do limite do conteúdo.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
