@@ -17,6 +17,8 @@ flex-wrap: nowrap;
 flex-wrap: wrap;
 ```
 
+> Quebra a linha assim que um dos flex itens não puder mais ser compactado.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
