@@ -13,6 +13,10 @@ flex-wrap: nowrap;
 
 > Valor padrão, não permite a quebra de linha.
 
+```css
+flex-wrap: wrap;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
