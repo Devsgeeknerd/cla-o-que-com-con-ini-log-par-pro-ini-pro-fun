@@ -4,7 +4,7 @@
 <!-- ***Conteúdo:*** -->
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->
@@ -16,6 +16,7 @@
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
+- [TABELA DE CONTEÚDO](#tabela-de-conteúdo)
 - [INFORMAÇÕES](#informações)
 
 <!-- OVERVIEW -->
