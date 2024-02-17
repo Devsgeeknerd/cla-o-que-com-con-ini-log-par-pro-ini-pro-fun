@@ -1,88 +1,48 @@
-<!-- TITLE -->
-# Flex Wrap
+<!-- Título -->
+# O Que é um Computador?
 
 ***Conteúdo da Aula:***
 
-Define se os itens devem quebrar ou não a linha. Por padrão eles não quebram linha, isso faz com que os flex itens sejam compactados alem do limite do conteúdo.
+O computador é um dispositivo capaz de realizar cálculos e tomar decisões lógicas milhões de vezes mais rápido que os seres humanos.
 
-Essa e geralmente uma propriedade que e quase sempre definida como `flex-wrap: wrap;`. Pois assim quando um dos flex itens atinge o limite do conteúdo, o último item passa para a coluna debaixo e assim por diante.
+Por exemplo:
 
-```css
-flex-wrap: nowrap;
-```
+* Hoje, muitos computadores pessoais podem realizar centenas de milhões, até bilhões, de somas por segundo.
+* Uma pessoa operando uma calculadora de mesa pode levar décadas para completar o mesmo número de cálculos que um computador pessoal poderoso pode realizar em segundos.
 
-> Valor padrão, não permite a quebra de linha.
+Os computadores processam dados sob o controle de conjuntos de instruções, chamados programas de computador, softwares ou aplicações.
 
-```css
-flex-wrap: wrap;
-```
+Esses programas orientam o computador por conjuntos ordenados de ações especificadas por pessoas, pessoas essas conhecidas como desenvolvedores ou programadores.
 
-> Quebra a linha assim que um dos flex itens não puder mais ser compactado.
+Os vários dispositivos que compõem um sistema de computação (como teclado, tela, discos, memórias, unidades de processamento) são conhecidos como hardware. Os programas de computador são conhecidos como software.
 
-```css
-flex-wrap: wrap-reverse;
-```
+O computador, na realidade, é uma réplica bastante simplificada da mente humana, com apenas uma diferença essencial:
 
-> Quebra a linha assim que um dos flex itens não puder mais ser compactado. A quebra e na direção contrária, ou seja para a linha acima.
+* A autoprogramação.
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+"Alguém" diz para o cérebro humano o que ele deve fazer ao se deparar com situações específicas, como "escovar os dentes ao acordar" ou "almoçar às 12h".
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Construído com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recursos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [INFORMAÇÕES](#informações)
+Tudo o que fazemos é regido por “programas” que, um dia, nós mesmos desenvolvemos.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+Se conseguimos desenvolver programas para um aparelho tão complexo e genial como o nosso cérebro, por que não os desenvolvemos para um simples computador?
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+Esse é o desafio:
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+* Desenvolver técnicas necessárias para codificar programas em um computador.
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- BUILT WITH -->
-<!-- ### CONSTRUÍDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-fle-wra-fle-con-fle-box&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-o-que-com-con-ini-log-par-pro-ini-pro-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-fle-wra-fle-con-fle-box?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-o-que-com-con-ini-log-par-pro-ini-pro-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-fle-wra-fle-con-fle-box?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-o-que-com-con-ini-log-par-pro-ini-pro-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-fle-wra-fle-con-fle-box?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-o-que-com-con-ini-log-par-pro-ini-pro-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-fle-wra-fle-con-fle-box?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-o-que-com-con-ini-log-par-pro-ini-pro-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/cla-fle-wra-fle-con-fle-box?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-o-que-com-con-ini-log-par-pro-ini-pro-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
